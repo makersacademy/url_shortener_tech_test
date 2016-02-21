@@ -37,4 +37,5 @@ What we really want is a link that looks like this:
   that shows the short URL, the long URL, each visit and the total number of
   visits
 
-You may use whatever technologies you see fit.
+You may use whatever technologies you see fit. Try to be deployed as early as
+possible.
